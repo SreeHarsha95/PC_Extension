@@ -1,0 +1,15 @@
+{
+  "name": "people-chain",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "Browserify background.js -o back,js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
